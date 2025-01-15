@@ -1,0 +1,17 @@
+{
+  "name": "ip-web-app",
+  "version": "1.0.0",
+  "description": "Web app to get the user's IP address",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "",
+  "license": "MIT"
+}
